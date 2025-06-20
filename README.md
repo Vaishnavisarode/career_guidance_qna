@@ -32,7 +32,7 @@ The dataset must contain the following columns:
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/career-guidance-qa.git
+git clone https://github.com/Vaishnavisarode/career_guidance_qna.git
 cd career-guidance-qa
 ```
 
